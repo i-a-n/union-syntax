@@ -1,0 +1,19 @@
+{
+  "name": "union-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An Atom syntax theme to replicate the feel of an old Compaq Portable III orange CRT computer.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "orange",
+    "retro",
+    "compaq",
+    "low contrast"
+  ],
+  "repository": "https://github.com/i-a-n/union-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
